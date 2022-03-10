@@ -1,0 +1,50 @@
+{
+  "_from": "cloudreve",
+  "_id": "cloudreve@1.0.4",
+  "_inBundle": false,
+  "_integrity": "sha512-ysNbpZIrWLs0O8aLiUXdwDtBOJYewAPdex/JMRwWS8ueqrMSAVusoUIS3HFVYixpmJX7QQlq6VetKxkjJKwgzA==",
+  "_location": "/cloudreve",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cloudreve",
+    "name": "cloudreve",
+    "escapedName": "cloudreve",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/cloudreve/-/cloudreve-1.0.4.tgz",
+  "_shasum": "2752e238a78bc7c4bb5231f0956eb3539914a516",
+  "_spec": "cloudreve",
+  "_where": "C:\\Users\\Administrator",
+  "author": "",
+  "bin": {
+    "cloudreve": "bin/index.js"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "colors": "^1.4.0",
+    "node-require-context": "^1.0.0",
+    "npmlog": "^6.0.0",
+    "request": "^2.88.2",
+    "request-progress": "^3.0.0",
+    "require-context": "^1.1.0",
+    "user-home": "^3.0.0"
+  },
+  "deprecated": false,
+  "description": "cloudreve网盘系统，命令行操作",
+  "keywords": [],
+  "license": "ISC",
+  "main": "bin/index.js",
+  "name": "cloudreve",
+  "scripts": {
+    "publish": "npm publish",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.4"
+}
